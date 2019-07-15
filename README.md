@@ -1,0 +1,2 @@
+# beijingGITTest
+first test git
